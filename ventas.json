@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "id_usuario": 5,
+        "fecha": "2025-08-01",
+        "total": 495000,
+        "direccion": "Rivadavia 123, Buenos Aires",
+        "productos": [1,5]
+    },
+    {
+        "id": 2,
+        "id_usuario": 12,
+        "fecha": "2025-08-03",
+        "total": 120000,
+        "direccion": "Av. Libertador 456, Rosario",
+        "productos": [2]
+    },
+    {
+        "id": 3,
+        "id_usuario": 8,
+        "fecha": "2025-08-05",
+        "total": 1000000,
+        "direccion": "San Martín 789, Córdoba",
+        "productos": [4,10]
+    },
+    {
+        "id": 4,
+        "id_usuario": 2,
+        "fecha": "2025-08-06",
+        "total": 305000,
+        "direccion": "Belgrano 234, Mendoza",
+        "productos": [3,20]
+    },
+    {
+        "id": 5,
+        "id_usuario": 15,
+        "fecha": "2025-08-07",
+        "total": 42000,
+        "direccion": "Mitre 321, Salta",
+        "productos": [16]
+    },
+    {
+        "id": 6,
+        "id_usuario": 18,
+        "fecha": "2025-08-08",
+        "total": 160000,
+        "direccion": "Av. Colón 876, Córdoba",
+        "productos": [12]
+    },
+    {
+        "id": 7,
+        "id_usuario": 10,
+        "fecha": "2025-08-09",
+        "total": 650000,
+        "direccion": "Córdoba 987, Mar del Plata",
+        "productos": [18]
+    },
+    {
+        "id": 8,
+        "id_usuario": 1,
+        "fecha": "2025-08-10",
+        "total": 167000,
+        "direccion": "Av. Pellegrini 1020, Rosario",
+        "productos": [5,9,10,19]
+    },
+    {
+        "id": 9,
+        "id_usuario": 14,
+        "fecha": "2025-08-11",
+        "total": 200000,
+        "direccion": "Av. San Juan 234, Buenos Aires",
+        "productos": [15]
+    },
+    {
+        "id": 10,
+        "id_usuario": 7,
+        "fecha": "2025-08-12",
+        "total": 305000,
+        "direccion": "Ruta 9 Km 345, Santa Fe",
+        "productos": [2,6]
+    },
+    {
+        "id": 11,
+        "id_usuario": 3,
+        "fecha": "2025-08-13",
+        "total": 95000,
+        "direccion": "Catamarca 876, Tucumán",
+        "productos": [17]
+    },
+    {
+        "id": 12,
+        "id_usuario": 20,
+        "fecha": "2025-08-14",
+        "total": 260000,
+        "direccion": "Alsina 234, La Plata",
+        "productos": [13]
+    },
+    {
+        "id": 13,
+        "id_usuario": 9,
+        "fecha": "2025-08-15",
+        "total": 65000,
+        "direccion": "Rivadavia 543, San Juan",
+        "productos": [11]
+    },
+    {
+        "id": 14,
+        "id_usuario": 6,
+        "fecha": "2025-08-16",
+        "total": 180000,
+        "direccion": "Av. Callao 987, Buenos Aires",
+        "productos": [8]
+    },
+    {
+        "id": 15,
+        "id_usuario": 17,
+        "fecha": "2025-08-17",
+        "total": 90000,
+        "direccion": "España 333, Córdoba",
+        "productos": [14]
+    },
+    {
+        "id": 16,
+        "id_usuario": 4,
+        "fecha": "2025-08-18",
+        "total": 1010000,
+        "direccion": "Italia 456, Córdoba",
+        "productos": [4,20]
+    },
+    {
+        "id": 17,
+        "id_usuario": 19,
+        "fecha": "2025-08-19",
+        "total": 22000,
+        "direccion": "Patricios 678, Rosario",
+        "productos": [10]
+    },
+    {
+        "id": 18,
+        "id_usuario": 13,
+        "fecha": "2025-08-20",
+        "total": 210000,
+        "direccion": "Av. Alem 876, Bahía Blanca",
+        "productos": [6]
+    },
+    {
+        "id": 19,
+        "id_usuario": 16,
+        "fecha": "2025-08-21",
+        "total": 750000,
+        "direccion": "Entre Ríos 123, Corrientes",
+        "productos": [3]
+    },
+    {
+        "id": 20,
+        "id_usuario": 11,
+        "fecha": "2025-08-22",
+        "total": 500000,
+        "direccion": "Urquiza 456, Santa Fe",
+        "productos": [2,15]
+    }
+]

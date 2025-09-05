@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "nombre": "Notebook Lenovo IdeaPad 3",
+        "desc": "Notebook 15.6'' AMD Ryzen 5, 8GB RAM, 256GB SSD",
+        "precio": 450000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_933653-MLU71191350932_082023-O.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Notebook HP Pavilion 14",
+        "desc": "Notebook 14'' Intel i5, 8GB RAM, 512GB SSD",
+        "precio": 520000,
+        "imagen": "https://ar-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/9/69K82LA-1_T1683065714.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Smartphone Samsung Galaxy S23",
+        "desc": "Pantalla 6.1'' AMOLED, 8GB RAM, 256GB",
+        "precio": 750000,
+        "imagen": "https://http2.mlstatic.com/D_711431-MLA84986645405_052025-C.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Smartphone iPhone 14",
+        "desc": "Pantalla 6.1'' OLED, 128GB",
+        "precio": 980000,
+        "imagen": "https://bioscomputacion.com.ar/img/Public/1161/5222-producto-iphone-14-128gb-midnight.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Auriculares Inalámbricos JBL Tune 510BT",
+        "desc": "Auriculares Bluetooth con micrófono",
+        "precio": 45000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxXsVLbfDR1pYzRsiXNGSvCLYPqIGw6wr-Q&s"
+    },
+    {
+        "id": 6,
+        "nombre": "Auriculares Apple AirPods Pro 2",
+        "desc": "Auriculares inalámbricos con cancelación de ruido",
+        "precio": 210000,
+        "imagen": "https://images.fravega.com/f500/fd679115d9658b15fea6c7ad840c2401.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Monitor LG UltraGear 24''",
+        "desc": "Monitor Gamer Full HD 144Hz",
+        "precio": 120000,
+        "imagen": "https://spacegamer.com.ar/img/Public/1058/15954-producto-1.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Monitor Samsung Odyssey G5 27''",
+        "desc": "Monitor curvo QHD 144Hz",
+        "precio": 180000,
+        "imagen": "https://www.rodo.com.ar/media/catalog/product/cache/855090a5c67e45b26c9e0d345e7592dc/s/a/samsung_odyssey_g5_ls27ag550elx.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Teclado Mecánico Redragon Kumara",
+        "desc": "Teclado mecánico retroiluminado",
+        "precio": 35000,
+        "imagen": "https://redragon.es/content/uploads/2021/04/KUMARA.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Mouse Logitech G203",
+        "desc": "Mouse gamer RGB 8000 DPI",
+        "precio": 22000,
+        "imagen": "https://fullh4rd.com.ar/img/productos/14/mouse-logitech-g203-gaming-lightsync-black-910005793-0.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Impresora HP DeskJet 2775",
+        "desc": "Impresora multifunción Wi-Fi",
+        "precio": 65000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_897533-MLA44220249729_122020-O.webp"
+    },
+    {
+        "id": 12,
+        "nombre": "Tablet Samsung Galaxy Tab A8",
+        "desc": "Pantalla 10.5'', 64GB almacenamiento",
+        "precio": 160000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxSuoFDzE0LxnvRuWNey_nGWE0tQrnGZG2SA&s"
+    },
+    {
+        "id": 13,
+        "nombre": "Tablet Apple iPad 10.2'' 9na gen",
+        "desc": "64GB, Wi-Fi, Chip A13",
+        "precio": 260000,
+        "imagen": "https://cdn-ipoint.waugi.com.ar/23161-thickbox_default/ipad-102-wi-fi-64gb-9na-gen-space-gray.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Smartwatch Xiaomi Redmi Watch 3",
+        "desc": "Pantalla AMOLED, GPS, resistencia al agua",
+        "precio": 90000,
+        "imagen": "https://mall.icbc.com.ar/35888183-large_default/redmi-watch-3-active-ivory.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Smartwatch Apple Watch SE",
+        "desc": "44mm, GPS, resistencia al agua",
+        "precio": 200000,
+        "imagen": "https://mauricomputacion.com.ar/images/productos/500x500/25150.webp"
+    },
+    {
+        "id": 16,
+        "nombre": "Disco SSD Kingston 480GB",
+        "desc": "Unidad de estado sólido SATA III",
+        "precio": 42000,
+        "imagen": "https://quickinformatica.net/cdn/shop/files/SEDC600M.480G_2_2048x.jpg?v=1716836749"
+    },
+    {
+        "id": 17,
+        "nombre": "Disco Externo Seagate 2TB",
+        "desc": "Disco rígido portátil USB 3.0",
+        "precio": 95000,
+        "imagen": "https://spacegamer.com.ar/img/Public/1058-producto-d-nq-np-929644-mla43960415507-102020-o-4879.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Placa de Video NVIDIA RTX 4060",
+        "desc": "8GB GDDR6, Ray Tracing, DLSS 3",
+        "precio": 650000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByKlEroiPHwO9GaMwkKOLqoXw49A-43Uh2A&s"
+    },
+    {
+        "id": 19,
+        "nombre": "Router TP-Link Archer AX10",
+        "desc": "Router Wi-Fi 6 Gigabit Dual Band",
+        "precio": 70000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFzyTYhhj0SzluFHMYmtIA8bbikDnEFGT0g&s"
+    },
+    {
+        "id": 20,
+        "nombre": "Parlante Portátil JBL Flip 6",
+        "desc": "Bluetooth, resistente al agua, 12h batería",
+        "precio": 110000,
+        "imagen": "https://www.oscarbarbieri.com/pub/media/catalog/product/cache/7baadf0dec41407c7702efdbff940ecb/e/8/e8d39fed9fa2bf4c1458280ed7735f8d.jpg"
+    }
+]
