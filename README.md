@@ -4,9 +4,9 @@ Este repositorio contiene datos en formato JSON para un sistema ficticio de e-co
 
 📂 Estructura de archivos
 
-usuarios.json → datos de usuarios registrados (id, nombre, correo, etc.).
+usuarios.json → datos de usuarios registrados.
 
-productos.json → información de los productos disponibles (id, nombre, categoría, precio, stock, etc.).
+productos.json → información de los productos disponibles.
 
 ventas.json → registro de ventas realizadas, vinculando usuarios y productos.
 
