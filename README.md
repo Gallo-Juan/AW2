@@ -27,6 +27,7 @@ ventas.json referencia a productos.json mediante el campo id dentro del arreglo 
 ***Rutas***
 
 GET
+
 /productos --> devuelve todos los productos
 
 /productos/:desde/:hasta --> devuelve los productos en el rango de precios 
