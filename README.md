@@ -28,15 +28,18 @@ ventas.json referencia a productos.json mediante el campo id dentro del arreglo 
 
 GET
 /productos --> devuelve todos los productos
+
 /productos/:desde/:hasta --> devuelve los productos en el rango de precios 
 
 POST
+
 /cargarUsuario --> carga un nuevo usuario
 JSON --> {  "nombre": "",
             "apellido": "",
             "email": "",
             "contrasena": ""
          }
+         
 /login --> ingreso de un usuario ya cargado
 JSON --> {
             "email": "",
@@ -44,6 +47,7 @@ JSON --> {
          }
 
 PUT
+
 /productos/actualizarprecio --> actuliza el precio de un producto
 JSON --> {
             id: ,
@@ -51,5 +55,6 @@ JSON --> {
          }
 
 DELETE
+
 /productos/eliminar/:id --> elimina el producto con ese id. Solo lo hace si el producto existe
                             y ademas no hay ventas pendiente de entrega con ese producto.
