@@ -65,7 +65,7 @@ app.post('/cargarUsuario', async (req, res) => {
         res.status(200).json("Usuario agregado correctamente")
     } catch (err) {
         console.error(err)
-        res.status(400).json("No se pudo guardar el usuario")
+        res.status(500).json("No se pudo guardar el usuario")
     }
 })
 
@@ -120,12 +120,12 @@ app.put('/productos/actualizarprecio',async (req,res)=>{
 
 //DELETE para eliminar productos solo si las ventas que tienen ya fueron entregadas
 app.delete('/productos/eliminar/:id', async (req, res) => {
-  const id = req.params.id; 
+  const id = parseInt(req.params.id); 
 
  
   const indexProducto = productoData.findIndex(p => p.id === id);
   if (indexProducto === -1) {
-    return res.status(400).json({ error: "Producto no encontrado" });
+    return res.status(404).json({ error: "Producto no encontrado" });
   }
 
   
