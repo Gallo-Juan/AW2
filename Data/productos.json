@@ -28,13 +28,6 @@
     "imagen": "https://images.fravega.com/f500/fd679115d9658b15fea6c7ad840c2401.jpg"
   },
   {
-    "id": 7,
-    "nombre": "Monitor LG UltraGear 24''",
-    "desc": "Monitor Gamer Full HD 144Hz",
-    "precio": 120000,
-    "imagen": "https://spacegamer.com.ar/img/Public/1058/15954-producto-1.jpg"
-  },
-  {
     "id": 8,
     "nombre": "Monitor Samsung Odyssey G5 27''",
     "desc": "Monitor curvo QHD 144Hz",
@@ -123,6 +116,13 @@
     "nombre": "Parlante Portátil JBL Flip 6",
     "desc": "Bluetooth, resistente al agua, 12h batería",
     "precio": 110000,
+    "imagen": "https://www.oscarbarbieri.com/pub/media/catalog/product/cache/7baadf0dec41407c7702efdbff940ecb/e/8/e8d39fed9fa2bf4c1458280ed7735f8d.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Parlante JBL",
+    "desc": "Bluetooth, 6h batería",
+    "precio": 100000,
     "imagen": "https://www.oscarbarbieri.com/pub/media/catalog/product/cache/7baadf0dec41407c7702efdbff940ecb/e/8/e8d39fed9fa2bf4c1458280ed7735f8d.jpg"
   }
 ]
